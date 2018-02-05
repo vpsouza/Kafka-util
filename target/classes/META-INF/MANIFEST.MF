@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: kafka-util
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ac-vpiedade
+Implementation-Vendor-Id: me.viniciuspiedade
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/kafka-util/
+Created-By: Maven Integration for Eclipse
+
